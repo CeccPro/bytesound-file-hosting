@@ -22,5 +22,18 @@
       "pop-rock",
       "electro-pop"
     ]
+  },
+  {
+    "songID": "ykhwyneza7",
+    "songName": "Harder, Better, Faster, Stronger",
+    "songAuthor": "Daft Punk",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/ykhwyneza7.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/ykhwyneza7.mp3",
+    "genres": [
+      "pop",
+      "electro",
+      "techno",
+      "electro-pop"
+    ]
   }
 ]
