@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "songID": "mtpf4bsej1",
+    "songName": "Natural",
+    "songAuthor": "Imagine Dragons",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/mtpf4bsej1.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/mtpf4bsej1.mp3",
+    "genres": [
+      "pop,pop-rock,electro-pop"
+    ]
+  }
+]
