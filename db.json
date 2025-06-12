@@ -168,5 +168,17 @@
       "pop-rock",
       "sad"
     ]
+  },
+  {
+    "songID": "uf43wn1lel",
+    "songName": "Teenagers",
+    "songAuthor": "My Chemical Romance",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/uf43wn1lel.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/uf43wn1lel.mp3",
+    "genres": [
+      "rock",
+      "metal",
+      "pop-rock"
+    ]
   }
 ]
