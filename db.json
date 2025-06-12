@@ -95,5 +95,17 @@
       "grunge",
       "rock-pop"
     ]
+  },
+  {
+    "songID": "nsc9xh1kgu",
+    "songName": "Resonance",
+    "songAuthor": "Home",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/nsc9xh1kgu.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/nsc9xh1kgu.mp3",
+    "genres": [
+      "lofi",
+      "chillwave",
+      "calm"
+    ]
   }
 ]
