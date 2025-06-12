@@ -35,5 +35,17 @@
       "techno",
       "electro-pop"
     ]
+  },
+  {
+    "songID": "v32h82w9a6",
+    "songName": "BAIXO",
+    "songAuthor": "xxanteria",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/v32h82w9a6.jpeg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/v32h82w9a6.mp3",
+    "genres": [
+      "phonk",
+      "drift-phonk",
+      "electro"
+    ]
   }
 ]
