@@ -59,5 +59,17 @@
       "drift-phonk",
       "electro"
     ]
+  },
+  {
+    "songID": "hplzmiruhc",
+    "songName": "Can You Feel My Heart",
+    "songAuthor": "Bring Me The Horizon",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/hplzmiruhc.jpeg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/hplzmiruhc.mp3",
+    "genres": [
+      "metal",
+      "darkcore",
+      "dark"
+    ]
   }
 ]
