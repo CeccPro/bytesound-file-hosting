@@ -155,5 +155,18 @@
       "sad",
       "darkcore"
     ]
+  },
+  {
+    "songID": "xae3i8ivsf",
+    "songName": "Something In The Way",
+    "songAuthor": "Nirvana",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/xae3i8ivsf.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/xae3i8ivsf.mp3",
+    "genres": [
+      "rock",
+      "grunge",
+      "pop-rock",
+      "sad"
+    ]
   }
 ]
