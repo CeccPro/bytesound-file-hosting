@@ -47,5 +47,17 @@
       "drift-phonk",
       "electronic"
     ]
+  },
+  {
+    "songID": "y9yvuwyqgk",
+    "songName": "FUNKED UP",
+    "songAuthor": "xxanteria",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/y9yvuwyqgk.jpeg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/y9yvuwyqgk.mp3",
+    "genres": [
+      "phonk",
+      "drift-phonk",
+      "electro"
+    ]
   }
 ]
