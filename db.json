@@ -71,5 +71,17 @@
       "darkcore",
       "dark"
     ]
+  },
+  {
+    "songID": "webdrfo4u3",
+    "songName": "505",
+    "songAuthor": "Artic Monkeys",
+    "cover": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/covers/webdrfo4u3.jpg",
+    "url": "https://raw.githubusercontent.com/ceccpro/bytesound-file-hosting/main/songs/webdrfo4u3.mp3",
+    "genres": [
+      "sad",
+      "dark",
+      "emo"
+    ]
   }
 ]
